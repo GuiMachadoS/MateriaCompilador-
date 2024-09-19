@@ -195,7 +195,7 @@ void runProgram() {
 
 int main() {
     // Carregar o programa BASIC a partir do arquivo
-    loadProgram("texto.txt");
+    loadProgram("GuilhermeMachado.txt");
 
     // Executar o programa
     runProgram();
